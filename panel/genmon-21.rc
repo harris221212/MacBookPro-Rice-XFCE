@@ -1,0 +1,5 @@
+Command=\ curl wttr.in/?format="%t\\n"
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=300000
+Font=Noto Sans 9

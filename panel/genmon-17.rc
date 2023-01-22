@@ -1,0 +1,5 @@
+Command=echo "  "
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=2000
+Font=Font Awesome 6 Free 12

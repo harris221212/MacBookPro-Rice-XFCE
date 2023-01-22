@@ -1,0 +1,5 @@
+Command=/home/USERNAME/Programs/xfce4/cputemp.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=2000
+Font=JetBrains Mono 9

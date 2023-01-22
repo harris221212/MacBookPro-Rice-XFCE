@@ -1,0 +1,5 @@
+Command=python3 /home/USERNAME/Programs/xfce4/cpu.py
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=2000
+Font=JetBrains Mono 9
