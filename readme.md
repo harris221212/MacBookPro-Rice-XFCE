@@ -2,7 +2,7 @@
 
 ## Setup 
 
-# Need to add your username to some files
+### Need to add your username to some files
 
 ctrl+f `USERNAME`
 
@@ -12,7 +12,7 @@ Add to line 1 of genmon-16.rc
 Add to line 1 of genmon-20.rc  
 Add to line 5 of cpu.py
 
-# Setup
+### Setup
 
 `sudo initial1.sh`  
 `initial2.sh`  
