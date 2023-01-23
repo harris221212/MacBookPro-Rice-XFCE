@@ -14,13 +14,19 @@ Add to line 5 of cpu.py
 
 ### Scripts
 
-Don't use install scripts, they are WIP and probably won't work.
+Don't run `initia1.sh`, it's WIP
+
+Run:  
+`initial2.sh`  
+`sudo initial3.sh`
 
 ### Dependancies
 
 `sudo apt install rofi mpv mousepad htop btop xfce4-genmon-plugin mbpfan xorg-dev libgd-dev`
 
 st with scrollback patches, anysize, desktopentry, netwmicon and charoffsets
+
+Papiruis Icons (Dark)
 
 ## Extra Recommended Configuration
 
