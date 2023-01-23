@@ -9,19 +9,19 @@ mkdir ~/.config/btop
 cp btop.conf ~/.config/btop/
 mkdir -p ~/.config/Code/User
 cp settings.json ~/.config/Code/User/
-mkdir ~/.config/rofi
+mkdir -p ~/.config/rofi
 cp config.rasi ~/.config/rofi/
 cp gtk.css ~/.config/gtk-3.0/
-mkdir ~/.local/share/rofi/themes
+mkdir -p ~/.local/share/rofi/themes
 cp harris.rasi ~/.local/share/rofi/themes/
-mkdir ~/.config/neofetch
+mkdir -p ~/.config/neofetch
 cp neofetch/config.cong ~/.config/neofetch/
-mkdir ~/.local/share/gtksourceview-4/styles
+mkdir -p ~/.local/share/gtksourceview-4/styles
 cp railscasts.xml ~/.local/share/gtksourceview-4/styles/
 mkdir ~/Programs
 cd
 git clone https://git.suckless.org/st ~/Programs/
-cp -r xfconf ~/.config/xfce4/
+cp -r xfconf/* ~/.config/xfce4/xfconf/xfce-perchannel-xml/
 cp -r panel ~/.config/xfce4/
 cp -r Programs/xfce4 ~/Programs/
 cp .bashrc ~/

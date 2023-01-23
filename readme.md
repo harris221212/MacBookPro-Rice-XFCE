@@ -12,11 +12,15 @@ Add to line 1 of genmon-16.rc
 Add to line 1 of genmon-20.rc  
 Add to line 5 of cpu.py
 
-### Setup
+### Scripts
 
-`sudo initial1.sh`  
-`initial2.sh`  
-`sudo initial3.sh USERNAME`
+Don't use install scripts, they are WIP and probably won't work.
+
+### Dependancies
+
+`sudo apt install rofi mpv mousepad htop btop xfce4-genmon-plugin mbpfan xorg-dev libgd-dev`
+
+st with scrollback patches, anysize, desktopentry, netwmicon and charoffsets
 
 ## Extra Recommended Configuration
 
